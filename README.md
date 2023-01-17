@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @guilherme-hgomes
+- 👋 Hi, I’m Guilherme
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ANY PROJECT !
